@@ -21,8 +21,8 @@ from email.mime.multipart import MIMEMultipart
 import redis
 
 
-MAIL_LIST_DIR = "/opt/jobs/email.txt"
-LOG_FILE = "/opt/jobs/fastnetmon-notify.log"
+MAIL_LIST_DIR = "./email.txt"
+LOG_FILE = "./fastnetmon-notify.log"
 ACTION_BAN_STR = "ban"
 ACTION_UNBAN_STR = "unban"
 
