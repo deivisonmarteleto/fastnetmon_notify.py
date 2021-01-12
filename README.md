@@ -23,3 +23,4 @@ Integração ao Telegram:
 
 Adicionar o Token e o Chat_ID.
 
+"Que a força esteja com voces!"
